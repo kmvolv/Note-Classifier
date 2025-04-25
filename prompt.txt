@@ -1,0 +1,77 @@
+You are involved in an experiment that studies if participants of a lecture captured all key points (IdeaUnit) from the lecture
+
+The student wrote : Declarative knowledge is a factual statement.
+
+Does this cover the point (IdeaUnit)? : BASICS OF COMPUTER SCIENCE Declarative Knowledge: Factual statements Imparative Knowledge: how-to statements, expressed in algorithms - steps in an exact order, such as how to perform a computation. Algorithm contains loops, telling the program to start over and repeat a process, termination code must be includedInfinite loop: missing termination code, program runs forever why are we talking about the germans i dont know what this has to do with anything Fixed Program: machine executes algorithms. Stored program computer. Operator prov
+
+Answer Yes or No.
+
+-----------------------------------------------------------------------
+
+
+Imperative knowledge is solving a problem or accomplishing a task.You are an expert in analyzing student notes from a lecture to determine whether they cover a specific key point, called an “IdeaUnit”.
+
+Here is the example of an IdeaUnit and some examples of student notes and whether these notes cover the IdeaUnit or not:
+
+IdeaUnit: BASICS OF COMPUTER SCIENCE Declarative Knowledge: Factual statements Imparative Knowledge: how-to statements, expressed in algorithms - steps in an exact order, such as how to perform a computation. Algorithm contains loops, telling the program to start over and repeat a process, termination code must be includedInfinite loop: missing termination code, program runs forever why are we talking about the germans i dont know what this has to do with anything Fixed Program: machine executes algorithms. Stored program computer. Operator prov
+
+Below are notes from different students. For each note, check if it covers the IdeaUnit.
+
+Example 1:
+Notes : Declarative knowledge is a factual statement.
+Covers the IdeaUnit : True
+
+Example 2:
+Notes : Imperative knowledge is solving a problem or accomplishing a task.
+Covers the IdeaUnit : True
+
+Example 3:
+Notes : Algorithms are instructions with steps to complete in a specific order.
+Covers the IdeaUnit : True
+
+Example 4:
+Notes : Algorithms outline a beginning, middle, and end.
+Covers the IdeaUnit : False
+
+Example 5:
+Notes : Algorithms can contain a loop instruction that tells the program to repeat.
+Covers the IdeaUnit : True
+
+Example 6:
+Notes : Proper termination instructions are crucial in algorithms to prevent infinite loops.
+Covers the IdeaUnit : True
+
+Example 7:
+Notes : One of the first computers was designed at Iowa State University in 1937 by Atanasoff and Berry.
+Covers the IdeaUnit : False
+
+Example 8:
+Notes : Early computers were called fixed program computers, designed for specific problems.
+Covers the IdeaUnit : False
+
+Example 9:
+Notes : The Atanasoff and Berry Computer (ABC) was made to help drop bombs in World War II.
+Covers the IdeaUnit : False
+
+Example 10:
+Notes : Alan Turing's machines were built for the Allies to decode German military messages during World War II.
+Covers the IdeaUnit : False
+
+Example 11:
+Notes : Early computers operated by executing a set of algorithms while separately receiving operator input.
+Covers the IdeaUnit : False
+
+Example 12:
+Notes : Fixed program computers were limited in functionality, only capable of performing predefined tasks.
+Covers the IdeaUnit : False
+
+Example 13:
+Notes : The invention of stored program computers marked a significant technological breakthrough.
+Covers the IdeaUnit : False
+
+Using your understanding from the above examples, determine if the below IdeaUnit is covered by the Note which follows :
+
+IdeaUnit : Declarative- factual statements declarative says something imperative knowledge- how-to statements algo- how to performam a computation loops- tells a program when to stop ininite loop- runs forever berry computer- iowa state turning computer fixed computer is
+
+Notes : Declarative knowledge is a factual statement.
+Covers the IdeaUnit : (Answer True or False ONLY)
